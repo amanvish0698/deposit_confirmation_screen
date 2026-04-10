@@ -1,0 +1,5 @@
+{
+  "name": "Cash Deposit Tracker",
+  "description": "A management dashboard for tracking and approving cash deposits in banks.",
+  "requestFramePermissions": []
+}
